@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Abokiey
-- 👀 I’m interested in Data analytics, data science and machine learning.
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on data analytics on various types of data
+- 👀 I’m a fullstack software engineer
 - 📫 How to reach me instagram: @abokiey twitter: @abokiey
 
 <!---
